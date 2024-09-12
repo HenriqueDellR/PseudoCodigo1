@@ -15,4 +15,4 @@
   
 ### Contribuição
 
-  Henrique Dell'Antonio Riscarolli, Guilherme dos Santos Bonato, Miguel Klotz Mantovani
+  Henrique Dell'Antonio Riscarolli, Guilherme dos Santos Bonato e Miguel Klotz Mantovani
